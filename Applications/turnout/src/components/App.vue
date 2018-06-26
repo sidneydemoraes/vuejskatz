@@ -10,6 +10,10 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2C3350;
-  margin-top: 60px;
+  margin: 60px;
+}
+
+.form {
+  padding: 0 10%;
 }
 </style>
